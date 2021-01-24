@@ -37,6 +37,7 @@ add_message_files(FILES
   RoutePosition.msg
   RouteSpeed.msg
   RouteSpeedArray.msg
+  Station.msg
   TeleopState.msg
   TrackedObject.msg
   TrackedObjectArray.msg
