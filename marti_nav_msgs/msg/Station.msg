@@ -1,0 +1,8 @@
+std_msgs/Header header
+string name
+geometry_msgs/Pose point
+bool ranger_match
+float64 ranger_euclidean_distance
+float64 vehicle_euclidean_distance
+float64 vehicle_route_distance
+float64 x_distance
